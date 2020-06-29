@@ -1,4 +1,4 @@
-## QR_Code_Scanner_Generator
+<h1> QR_Code_Scanner_Generator</h1>
 
 # scanner 
 
